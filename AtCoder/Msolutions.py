@@ -1,0 +1,5 @@
+n, a, b, c = map(int, input().split())
+tmp = 1 / ((1 / a ** n) + (1 / b ** n))
+print(1 / ((1 / 50) ** 4))
+print(1 / (1 / a ** n))
+print(tmp)
