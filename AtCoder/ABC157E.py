@@ -18,4 +18,4 @@ for i in range(q):
             if abcList[mid] == -1:
                 mid -= 1
             if left == mid:
-                
+                pass
