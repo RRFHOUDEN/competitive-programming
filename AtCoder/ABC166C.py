@@ -1,9 +1,15 @@
-a, b, n = map(int, input().split())
-x = min(n, b)
-while x % b == 0 and b != 1:
-    x -= 1
-if b == 1:
-    print(0)
-else:
-    i = x
-    print(a * x // b)
+
+
+n, m = map(int, input().split())
+h = list(map(int, input().split()))
+good = [1 for _ in range(n)]
+for i in range(m):
+    a, b = map(int, input().split())
+    if h[a-1] == h[b-1]:
+        good[a-1] = 0
+        good[b-1] = 0
+    elif h[a-1] > h[b-1]:
+        good[b-1] = 0
+    elif h[a-1] < h[b-1]:
+        good[a-1] = 0
+print(sum(good))

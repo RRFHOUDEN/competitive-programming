@@ -20,16 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d907e9a4-9694-42a8-9f2f-01eb23ab68bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC165A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC165B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/procon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/procon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC163A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC163B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC163C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC163D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166E2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/ABC166F.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtCoder/ABC164D.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder/ABC164D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtCoder/ABC166A.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder/ABC166A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtCoder/ABC166C.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder/ABC166C.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +85,8 @@
       <recent name="D:\Keisuek Toyoda\procon\AtCoder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ABC166E">
-    <configuration name="ABC165A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ABC166D">
+    <configuration name="ABC166B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="procon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,51 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC165A.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ABC165B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="procon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtCoder" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC165B.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ABC166A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="procon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtCoder" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC166A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC166B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC166E" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC166D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="procon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,7 +143,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC166E.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC166D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC166E2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="procon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtCoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC166E2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC166F" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="procon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtCoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtCoder/ABC166F.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,19 +197,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ABC166A" />
-      <item itemvalue="Python.ABC165A" />
-      <item itemvalue="Python.ABC165B" />
       <item itemvalue="Python.ABC166C" />
-      <item itemvalue="Python.ABC166E" />
+      <item itemvalue="Python.ABC166B" />
+      <item itemvalue="Python.ABC166D" />
+      <item itemvalue="Python.ABC166E2" />
+      <item itemvalue="Python.ABC166F" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ABC166E" />
+        <item itemvalue="Python.ABC166D" />
+        <item itemvalue="Python.ABC166F" />
+        <item itemvalue="Python.ABC166E2" />
         <item itemvalue="Python.ABC166C" />
-        <item itemvalue="Python.ABC165B" />
-        <item itemvalue="Python.ABC165A" />
-        <item itemvalue="Python.ABC166A" />
+        <item itemvalue="Python.ABC166B" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +227,7 @@
       <workItem from="1588157987200" duration="2000" />
       <workItem from="1588161486922" duration="1526000" />
       <workItem from="1588390609270" duration="66000" />
-      <workItem from="1588420477884" duration="5597000" />
+      <workItem from="1588420477884" duration="14666000" />
     </task>
     <task id="LOCAL-00001" summary="Knapsack problem">
       <created>1559959952822</created>
@@ -293,56 +294,68 @@
     </state>
     <state x="295" y="336" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588390658084" />
     <state x="2215" y="336" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588161973112" />
-    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1588427381494">
+    <state width="1876" height="325" key="GridCell.Tab.0.bottom" timestamp="1588547825026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588427381494" />
+    <state width="1876" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825026" />
     <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588162260039" />
-    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1588427381494">
+    <state width="1876" height="325" key="GridCell.Tab.0.center" timestamp="1588547825026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588427381494" />
+    <state width="1876" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825026" />
     <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588162260039" />
-    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1588427381494">
+    <state width="1876" height="325" key="GridCell.Tab.0.left" timestamp="1588547825026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588427381494" />
+    <state width="1876" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825026" />
     <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588162260039" />
-    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1588427381494">
+    <state width="1876" height="325" key="GridCell.Tab.0.right" timestamp="1588547825026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588427381494" />
+    <state width="1876" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825026" />
     <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588162260039" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1588425951618">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1588547825018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588425951618" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1588425951618">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825018" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1588547825018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588425951618" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1588425951618">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825018" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1588547825018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588425951618" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1588425951618">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825018" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1588547825018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588425951618" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588547825018" />
     <state x="2388" y="164" key="SettingsEditor" timestamp="1588162331522">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2388" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588162331522" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1588516481775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588516481775" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1588516481775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588516481775" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/procon$ABC165B.coverage" NAME="ABC165B Coverage Results" MODIFIED="1588421755295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
     <SUITE FILE_PATH="coverage/procon$ABC164A.coverage" NAME="ABC164A Coverage Results" MODIFIED="1587902455522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
     <SUITE FILE_PATH="coverage/procon$ABC164D.coverage" NAME="ABC164D Coverage Results" MODIFIED="1588162260031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
-    <SUITE FILE_PATH="coverage/procon$ABC166C.coverage" NAME="ABC166C Coverage Results" MODIFIED="1588425931878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
-    <SUITE FILE_PATH="coverage/procon$ABC166E.coverage" NAME="ABC166E Coverage Results" MODIFIED="1588427381488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
-    <SUITE FILE_PATH="coverage/procon$ABC166A.coverage" NAME="ABC166A Coverage Results" MODIFIED="1588421474294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
-    <SUITE FILE_PATH="coverage/procon$ABC164C.coverage" NAME="ABC164C Coverage Results" MODIFIED="1587902636781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166C.coverage" NAME="ABC166C Coverage Results" MODIFIED="1588508027089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166A.coverage" NAME="ABC166A Coverage Results" MODIFIED="1588507406166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
     <SUITE FILE_PATH="coverage/procon$ABC164B.coverage" NAME="ABC164B Coverage Results" MODIFIED="1587902618712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
     <SUITE FILE_PATH="coverage/procon$ABC165A.coverage" NAME="ABC165A Coverage Results" MODIFIED="1588421536493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166D.coverage" NAME="ABC166D Coverage Results" MODIFIED="1588513759912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC165B.coverage" NAME="ABC165B Coverage Results" MODIFIED="1588421755295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166E2.coverage" NAME="ABC166E2 Coverage Results" MODIFIED="1588509843330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166E.coverage" NAME="ABC166E Coverage Results" MODIFIED="1588427381488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC164C.coverage" NAME="ABC164C Coverage Results" MODIFIED="1587902636781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166B.coverage" NAME="ABC166B Coverage Results" MODIFIED="1588507416344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
+    <SUITE FILE_PATH="coverage/procon$ABC166F.coverage" NAME="ABC166F Coverage Results" MODIFIED="1588513754150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder" />
   </component>
 </project>
