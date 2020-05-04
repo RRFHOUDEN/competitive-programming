@@ -1,6 +1,9 @@
-n = int(input())
-s, t = input().split()
-for i in range(n):
-    print(s[i], end = "")
-    print(t[i], end = "")
-print()
+s = input()
+cnt = 0
+for i in range(len(s)):
+    j = len(s) - i - 1
+    if j < i:
+        break
+    if s[i] != s[j]:
+        cnt += 1
+print(cnt)
