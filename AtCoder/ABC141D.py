@@ -24,11 +24,11 @@ else:
 # print(a)
 print(sum(a))
 
-# import math
+# import fractions
 # import copy
 # loga = copy.deepcopy(a)
 # for i in range(n):
-#     loga[i] = int(math.log2(a[i]))
+#     loga[i] = int(fractions.log2(a[i]))
 #
 # print(loga)
 # loga.sort()

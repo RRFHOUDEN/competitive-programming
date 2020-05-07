@@ -1,11 +1,11 @@
-import math
+import fractions
 while True:
     r, n = map(int, input().split())
     if r == 0 and n == 0:
         break
     sun_time = [-10 ** 10 for i in range(200)]
     for i in range(r):
-        tmp = -r + math.sqrt(r * r - i * i)
+        tmp = -r + fractions.sqrt(r * r - i * i)
         sun_time[100+ i] = tmp
         sun_time[99 - i] = tmp
     # print(sun_time)

@@ -1,4 +1,4 @@
-import math
+import fractions
 def permutations_count(n, r):
     if r != n:
         return F[n] // F[r] // F[n - r]
@@ -7,7 +7,7 @@ n, k = map(int, input().split())
 a = list(map(int, input().split()))
 a.sort()
 ans = 0
-K = math.factorial(k)
+K = fractions.factorial(k)
 # print(a)
 F = [1 for i in range(10**5 + 1)]
 for i in range(1, len(F)):

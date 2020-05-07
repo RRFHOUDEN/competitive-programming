@@ -1,2 +1,2 @@
-import math
-print(int(input()) * math.pi * 2)
+import fractions
+print(int(input()) * fractions.pi * 2)

@@ -1,4 +1,4 @@
-import  math
+import  fractions
 n = int(input())
 s = input()
 inv_cnt = []
@@ -15,13 +15,13 @@ for i in s:
 if cnt1 <= 1 or cnt2 <= 1:
     ans = 0
 else:
-    ans = math.factorial(cnt1 - 1)
+    ans = fractions.factorial(cnt1 - 1)
     ans %= 10 ** 9 + 7
 # print(ans)
-    ans += math.factorial(cnt2 - 1)
+    ans += fractions.factorial(cnt2 - 1)
     ans %= 10 ** 9 + 7
 # print(ans)
-    ans *= math.factorial(n)
+    ans *= fractions.factorial(n)
     ans %= 10 ** 9 + 7
 
 # ans = 1
@@ -50,6 +50,6 @@ else:
 #         ans %= 10 ** 9 + 7
 # if ans == 1:
 #     ans = 0
-# ans *= math.factorial(n)
+# ans *= fractions.factorial(n)
 ans %= 10 ** 9 + 7
 print(ans)

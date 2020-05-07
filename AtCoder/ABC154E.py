@@ -1,6 +1,6 @@
-import math
+import fractions
 def combinations_count(n, r):
-    return math.factorial(n) // (math.factorial(n - r) * math.factorial(r))
+    return fractions.factorial(n) // (fractions.factorial(n - r) * fractions.factorial(r))
 
 
 def solve(k, m, i):

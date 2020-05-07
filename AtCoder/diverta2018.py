@@ -1,6 +1,6 @@
 n = int(input())
 ab = [list(map(int, input().split())) for i in range(n)]
-import math
+import fractions
 def yakusuu(N):
     i = 1
     ans = []

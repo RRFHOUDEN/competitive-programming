@@ -1,4 +1,4 @@
-import math
+import fractions
 
 
 x, y = map(int, input().split())

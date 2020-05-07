@@ -1,4 +1,4 @@
-import math
+import fractions
 h = int(input())
 # cnt = 0
 # while h > 0:
@@ -9,7 +9,7 @@ h = int(input())
 #         h //= 2
 #         cnt += 1
 
-ans = math.log2(h)
+ans = fractions.log2(h)
 ans = int(ans)
 #
 # print(2 ** cnt - 1)

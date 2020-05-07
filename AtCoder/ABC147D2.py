@@ -1,27 +1,21 @@
 n = int(input())
 a = list(map(int, input().split()))
-bin_a = []
-for i in a:
-    bin_a.append(bin(i)[2::])
-maxlen = 0
-for i, j in enumerate(bin_a):
-    maxlen = max(maxlen, len(j))
+onecnts = []
 
-for i, j in enumerate(bin_a):
-    while len(bin_a[i]) < maxlen:
-        bin_a[i] = "0" + bin_a[i]
+for i in a:
+    j = 0
+    while i > 0:
+        if len(onecnts) - 1 < j:
+            onecnts.append(0)
+        if i % 2 != 0:
+            onecnts[j] += 1
+        j += 1
+        i >>= 1
 
 ans = 0
-for i in range(maxlen):
-    zerocnt = 0
-    onecnt = 0
-    for j in range(len(bin_a)):
-        if bin_a[j][i] == "0":
-            zerocnt += 1
-        else:
-            onecnt += 1
-    ans += zerocnt * onecnt * 2 ** i
+mod = 10**9+7
 
-ans %= 10 ** 9 + 7
-print(bin_a)
+for i, onecnt in enumerate(onecnts):
+    ans += onecnt * (n-onecnt) * (2**i)
+    ans %= mod
 print(ans)
