@@ -9,3 +9,9 @@ def make_bit(n):
         i += 1
 
     return bit
+
+# 逆元
+# 1 / c % mod = pow(c, mod-2, mod)
+import itertools
+for i in itertools.product(range(2), 2):
+    print(i)

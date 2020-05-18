@@ -13,6 +13,12 @@ for i in range(len(s)):
         if s[i] == "?":
             for j in range(10):
                 for k in range(10):
-                    dp[i][(j * 10 ** (i+1) + dp[i-1][j]) % 13] = dp[i-1][j]
+                    # if i == 2:
+                    #     print((j * (10 ** i) + k), (j * (10 ** i) + k), (j * (10 ** i) + k) % 13, dp[i-1][k])
+                    dp[i][(j * (10 ** i) + k) % 13] += dp[i-1][k]
         else:
-            dp[i][(int(s[i]) * 10 ** (i+1) + dp[i-1][j]) % 13]
+            for j in range(10):
+                dp[i][(int(s[i]) * (10 ** i) + j) % 13] = dp[i-1][j]
+
+print(dp)
+print(dp[-1][5])

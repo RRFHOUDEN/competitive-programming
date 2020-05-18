@@ -1,7 +1,7 @@
 n, a = map(int, input().split())
 x = list(map(int, input().split()))
-
-dp = [[[0 for _ in range(max(x)*n+1)] for _ in range(n)] for _ in range(n)]
+x = [0] + x
+dp = [[[0 for _ in range(max(x)*n+1)] for _ in range(n+1)] for _ in range(n+1)]
 x.sort()
 for j in range(n+1):
     for k in range(n+1):
@@ -16,8 +16,10 @@ for j in range(n+1):
                 dp[j][k][s] = 0
 
 ans = 0
-for i in range(n):
-    for j in range(1, n+1):
-        ans += dp[i][j][j*a]
+for k in range(1, n+1):
+    try:
+        ans += dp[n][k][k*a]
+    except:
+        pass
 
 print(ans)
