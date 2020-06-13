@@ -1,258 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a4675c31-c989-43b1-bf0a-8192dc726922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/160A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC076C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC083C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC103D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC103E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC133E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC134E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC138E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC141B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC141C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC141D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC141E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC143B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC143C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC143D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC144A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC144B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC144C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC144D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC145A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC145B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC145C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC145D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC146A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC146B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC146C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC146D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC147B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC147C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC147D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC147D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC147E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC148D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC151A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC151B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC151C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC151D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC151E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC152A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC152B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC152C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC152E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC153B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC153C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC153D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC153E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC153F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC154B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC154C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC154D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC154E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC155A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC155B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC155C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC155D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC155E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC156A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC156B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC156C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC156D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC157A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC157B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC157C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC157D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC157E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC157E2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC159B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC159C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC159D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC159E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC159F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC160A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC160B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC160C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC160D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC160E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC160F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC161A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC161B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC161C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC161D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC161E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC162A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC162B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC162C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC162D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC162F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC167E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC167F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AGC035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AGC039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AGC039A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARC061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDCC2020A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDCC2020B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDCC2020C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDCC2020D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DKC2020A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DKC2020B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSC2019A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSC2019B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSC2019C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KUCUP2015A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PP2020A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMTRA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMTRB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMTRC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMTRD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SMTRE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abc152d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyence2020B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kickstart08A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kickstart20A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kickstart20B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kickstart20C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kickstartFA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kickstartFA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paiza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pp2020B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pp2020C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pp2020D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thicket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tukimi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC169A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC169B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC169C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC169D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Past3/N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/AtCoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AtCoder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2012594760">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="56" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="56" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="25312" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="25312" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC162A.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="15" selection-end-line="4" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC162B.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC162C.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="10" selection-end-line="17" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC162D.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC167E.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC162F.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tukimi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-              <folding>
-                <marker date="1586851317743" expanded="true" signature="168:175" ph="..." />
-                <marker date="1586851317743" expanded="true" signature="516:521" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -264,109 +58,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ABC130B.py" />
-        <option value="$PROJECT_DIR$/ABC130C.py" />
-        <option value="$PROJECT_DIR$/ABC130D.py" />
-        <option value="$PROJECT_DIR$/ABC130E.py" />
-        <option value="$PROJECT_DIR$/ABC131A.py" />
-        <option value="$PROJECT_DIR$/ABC131B.py" />
-        <option value="$PROJECT_DIR$/ABC131C.py" />
-        <option value="$PROJECT_DIR$/ABC131D.py" />
-        <option value="$PROJECT_DIR$/ABC131E.py" />
-        <option value="$PROJECT_DIR$/AGC035.py" />
-        <option value="$PROJECT_DIR$/ARC061.py" />
-        <option value="$PROJECT_DIR$/ABC079.py" />
-        <option value="$PROJECT_DIR$/KUCUP2015A.py" />
-        <option value="$PROJECT_DIR$/ABC103D.py" />
-        <option value="$PROJECT_DIR$/ABC076.py" />
-        <option value="$PROJECT_DIR$/ABC076C.py" />
-        <option value="$PROJECT_DIR$/ABC083C.py" />
-        <option value="$PROJECT_DIR$/UnionFind.py" />
-        <option value="$PROJECT_DIR$/keyence2020B.py" />
-        <option value="$PROJECT_DIR$/PP2020A.py" />
-        <option value="$PROJECT_DIR$/pp2020B.py" />
-        <option value="$PROJECT_DIR$/pp2020D.py" />
-        <option value="$PROJECT_DIR$/pp2020C.py" />
-        <option value="$PROJECT_DIR$/kickstart20A.py" />
-        <option value="$PROJECT_DIR$/kickstart20B.py" />
-        <option value="$PROJECT_DIR$/ABC160A.py" />
-        <option value="$PROJECT_DIR$/ABC159B.py" />
-        <option value="$PROJECT_DIR$/ABC159C.py" />
-        <option value="$PROJECT_DIR$/ABC159D.py" />
-        <option value="$PROJECT_DIR$/ABC159F.py" />
-        <option value="$PROJECT_DIR$/ABC159E.py" />
-        <option value="$PROJECT_DIR$/160A.py" />
-        <option value="$PROJECT_DIR$/ABC160B.py" />
-        <option value="$PROJECT_DIR$/ABC160C.py" />
-        <option value="$PROJECT_DIR$/ABC160D.py" />
-        <option value="$PROJECT_DIR$/ABC160E.py" />
-        <option value="$PROJECT_DIR$/ABC160F.py" />
-        <option value="$PROJECT_DIR$/ABC161A.py" />
-        <option value="$PROJECT_DIR$/ABC161B.py" />
-        <option value="$PROJECT_DIR$/ABC161C.py" />
-        <option value="$PROJECT_DIR$/ABC161D.py" />
-        <option value="$PROJECT_DIR$/ABC157E2.py" />
-        <option value="$PROJECT_DIR$/ABC161E.py" />
-        <option value="$PROJECT_DIR$/kickstart20C.py" />
-        <option value="$PROJECT_DIR$/ABC162A.py" />
-        <option value="$PROJECT_DIR$/ABC162B.py" />
-        <option value="$PROJECT_DIR$/ABC162C.py" />
-        <option value="$PROJECT_DIR$/ABC162D.py" />
-        <option value="$PROJECT_DIR$/ABC167E.py" />
-        <option value="$PROJECT_DIR$/ABC162F.py" />
-        <option value="$PROJECT_DIR$/tukimi.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1cfi3xGquZuWtu2eD2xZWWAYz2P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../intern" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.tukimi">
-    <configuration name="ABC162C" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.H">
+    <configuration name="G" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,11 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Past3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC162C.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Past3/G.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC162D" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="H" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -395,11 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Past3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC162D.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Past3/H.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC162F" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,11 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Past3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC162F.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Past3/I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC167E" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="J" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,11 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Past3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC167E.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Past3/J.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -450,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tukimi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -458,11 +174,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Past3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tukimi.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Past3/K.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -472,19 +189,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ABC162C" />
-      <item itemvalue="Python.ABC162D" />
-      <item itemvalue="Python.ABC167E" />
-      <item itemvalue="Python.ABC162F" />
-      <item itemvalue="Python.tukimi" />
+      <item itemvalue="Python.G" />
+      <item itemvalue="Python.I" />
+      <item itemvalue="Python.J" />
+      <item itemvalue="Python.K" />
+      <item itemvalue="Python.H" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tukimi" />
-        <item itemvalue="Python.ABC162F" />
-        <item itemvalue="Python.ABC167E" />
-        <item itemvalue="Python.ABC162D" />
-        <item itemvalue="Python.ABC162C" />
+        <item itemvalue="Python.H" />
+        <item itemvalue="Python.K" />
+        <item itemvalue="Python.G" />
+        <item itemvalue="Python.J" />
+        <item itemvalue="Python.I" />
       </list>
     </recent_temporary>
   </component>
@@ -498,400 +215,69 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560599485893</updated>
+      <workItem from="1590925854127" duration="12767000" />
+      <workItem from="1591402253481" duration="11977000" />
+      <workItem from="1591621806307" duration="636000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09325606" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37378114" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12434141" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.276273" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/divertaC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC130E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
-    <entry file="file://$PROJECT_DIR$/AGC035.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ARC061.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC079.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KUCUP2015A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC103D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1663331554/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/ABC131A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnionFind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyence2020B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PP2020A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="true" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pp2020B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pp2020D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="true" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC076.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC076C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC083C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pp2020C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kickstart20A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kickstart20B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC160A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC159B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC159C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC159D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC159E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/160A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC160B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC160C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC160D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC160E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="25" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC159F.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC160F.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC161A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC161B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC161C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC161D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC161E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC157E2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="29" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kickstart20C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC162A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC162B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC162C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC162D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC167E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC162F.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tukimi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-          <folding>
-            <marker date="1586851317743" expanded="true" signature="168:175" ph="..." />
-            <marker date="1586851317743" expanded="true" signature="516:521" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="677" y="115" key="#ABC169A" timestamp="1590925922235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="115" key="#ABC169A/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590925922235" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1591621841363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591621841363" />
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom" timestamp="1591413317259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591413317259" />
+    <state width="1877" height="229" key="GridCell.Tab.0.center" timestamp="1591413317259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="229" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591413317259" />
+    <state width="1877" height="229" key="GridCell.Tab.0.left" timestamp="1591413317258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="229" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591413317258" />
+    <state width="1877" height="229" key="GridCell.Tab.0.right" timestamp="1591413317259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="229" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591413317259" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AtCoder$ABC169D.coverage" NAME="ABC169D Coverage Results" MODIFIED="1591396957235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$C.coverage" NAME="C Coverage Results" MODIFIED="1591397798730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$K.coverage" NAME="K Coverage Results" MODIFIED="1591413309591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$H.coverage" NAME="H Coverage Results" MODIFIED="1591413317253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC169A.coverage" NAME="ABC169A Coverage Results" MODIFIED="1590926415695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$A.coverage" NAME="A Coverage Results" MODIFIED="1591396971804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$D.coverage" NAME="D Coverage Results" MODIFIED="1591398506680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC169B.coverage" NAME="ABC169B Coverage Results" MODIFIED="1590926518985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$J.coverage" NAME="J Coverage Results" MODIFIED="1591406060538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$G.coverage" NAME="G Coverage Results" MODIFIED="1591408441386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$aaaaaa.coverage" NAME="aaaaaa Coverage Results" MODIFIED="1590930812626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC169C.coverage" NAME="ABC169C Coverage Results" MODIFIED="1590931449673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$E.coverage" NAME="E Coverage Results" MODIFIED="1591398769599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$F.coverage" NAME="F Coverage Results" MODIFIED="1591402998015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$I.coverage" NAME="I Coverage Results" MODIFIED="1591404896210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
+    <SUITE FILE_PATH="coverage/AtCoder$B.coverage" NAME="B Coverage Results" MODIFIED="1591397442842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Past3" />
   </component>
 </project>
